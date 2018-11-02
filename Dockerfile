@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/github.com/knative/eventing/pkg/buses/gcppubsub/dispatcher@sha256:8f86acd4712e5cf466311c7ea94f6b403362edc392919da353b63b6fe7b77a2f
+FROM gcr.io/knative-releases/github.com/knative/eventing/pkg/sources/k8sevents@sha256:97486b53b37a605d6e45c2cb9409e33904863a662af09cd063bc20e10791c9d7
