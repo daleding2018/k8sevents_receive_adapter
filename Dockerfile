@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/github.com/knative/eventing/pkg/buses/kafka/provisioner@sha256:2f1de56ae7c77c777ae06fd8693739800900be111bcc337339acebf527d40ef5
+FROM gcr.io/knative-releases/github.com/knative/eventing/pkg/buses/kafka/dispatcher@sha256:b9f0fd9429292045b4b1a8ca2e599e7ca37d88ce4f53a8a0e0c7c837e352d490
